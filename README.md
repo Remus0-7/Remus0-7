@@ -43,8 +43,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Remus0-7&theme=radial" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remus0-7&layout=compact&theme=radial" alt="Top Langs" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=Remus0-7&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Remus0-7&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Remus0-7&layout=compact&theme=radial" alt="Top Langs" width="48%" />
 </p>
 
 ---
